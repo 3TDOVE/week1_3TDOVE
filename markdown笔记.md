@@ -78,7 +78,7 @@ h1,h3{
 - 网站图片—右键-在新标签内打开-复制链接
 ### iii.`<img>`标签
 `<img src="" alt="图片无法显示时的替代文字" width=宽度 height=高度 title="鼠标悬停时标题">`
-<img src="02.jpg" alt="图片无法显示" width=400px height=600px title="鼠标选中">
+<img src="02.jpg" alt="图片无法显示" width=400px height=600px title="中航大鹅">
 - 宽度与高度
     - 百分比%(占页面的多少，大小随页面大小而变)
     - 像素px(图片大小固定) 
